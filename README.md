@@ -23,5 +23,7 @@ This project aims to perform a comprehensive analysis of an auto sales dataset. 
 
 To enhance the analysis and provide interactive visual insights, we have created Tableau visualizations based on the dataset. You can explore these visualizations by following the link below:
 
-[Tableau Dashboard 1]([[#](https://public.tableau.com/shared/GW3MZC9XG?:display_count=n&:origin=viz_share_link)](https://public.tableau.com/shared/9YFGGWMBW?:display_count=n&:origin=viz_share_link))
-[Tableau Dashboard 2]([#]([https://public.tableau.com/shared/GW3MZC9XG?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/AutomobileHighValueCust/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)))
+[Tableau Dashboard 1](https://public.tableau.com/shared/9YFGGWMBW?:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard 2](https://public.tableau.com/views/AutomobileHighValueCust/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+
