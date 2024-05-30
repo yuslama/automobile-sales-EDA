@@ -15,7 +15,7 @@ This project aims to perform a comprehensive analysis of an auto sales dataset. 
 
 - **data**: Directory containing the dataset.
 - **notebooks**: Jupyter notebooks for data analysis.
-- **scripts**: Python scripts for data cleaning and preprocessing.
+- **alternative preview**: Sometime the github failed to render the .ipynb so open this instead [datalab](https://www.datacamp.com/datalab/w/d20526f4-4361-493a-9da2-e06ec942e8c1/edit/automobileSales.ipynb).
 - **visualizations**: Directory for storing visualizations.
 - **README.md**: Project documentation.
 
