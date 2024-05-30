@@ -13,10 +13,10 @@ This project aims to perform a comprehensive analysis of an auto sales dataset. 
 
 ## Project Structure
 
-- **data/**: Directory containing the dataset.
-- **notebooks/**: Jupyter notebooks for data analysis.
-- **scripts/**: Python scripts for data cleaning and preprocessing.
-- **visualizations/**: Directory for storing visualizations.
+- **data**: Directory containing the dataset.
+- **notebooks**: Jupyter notebooks for data analysis.
+- **scripts**: Python scripts for data cleaning and preprocessing.
+- **visualizations**: Directory for storing visualizations.
 - **README.md**: Project documentation.
 
 ## Tableau Visualizations
