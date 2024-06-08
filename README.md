@@ -16,8 +16,7 @@ This project aims to perform a comprehensive analysis of an auto sales dataset. 
 - **data**: Directory containing the dataset.
 - **notebooks**: Jupyter notebooks for data analysis.
 - **alternative preview**: Sometime the github failed to render the .ipynb so open this instead [nbviewer](https://nbviewer.org/github/yuslama/automobile_sales/blob/d1262b5d99f52fa8f404e80dad1c9d254881a8e2/automobile_sales.ipynb).
-- **visualizations**: Directory for storing visualizations.
-- **README.md**: Project documentation.
+- **visualizations**: README.md to storing visualizations link.
 
 ## Tableau Visualizations
 
